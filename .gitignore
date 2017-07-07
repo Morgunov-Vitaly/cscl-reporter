@@ -30,3 +30,4 @@
 /wp-content/
 !/wp-content/plugins/mv-web-reporter/
 !/wp-content/themes/Impreza-child/
+!/.gitignore
