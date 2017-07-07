@@ -1,0 +1,36 @@
+/*
+	Theme Name: Impreza Child
+	Template: Impreza
+	Version: 1.0
+	Author:	UpSolution
+	Theme URI: http://impreza.us-themes.com/
+	Author URI: http://us-themes.com/
+*/
+
+/*Add your own styles here:*/
+
+
+
+/* Стили для блока icon-box */
+.mv_icon_box { 
+	margin: 0 0 20px 0;
+}
+/* стили ссылки LogIn/LogOut */
+.w-text-value {
+	color: inherit;
+}
+
+/* класс объектов которые скрываются, пока нет токена */
+.mv_token_show {
+	display: none;
+}  
+
+/* класс объектов которые становятся видны, когда нет токена */
+.mv_notoken_show {
+	/* display: none; */
+}
+
+
+ .w-blog {
+    display: none;	
+} 
